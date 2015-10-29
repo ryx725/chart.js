@@ -24,6 +24,6 @@ Chart.defaults = {
 			// Array - Array of string names to attach tooltip events
 			//tooltipEvents: ["mousemove", "touchstart", "touchmove", "mouseout"],
 		...
-		
+		}
 		
 
